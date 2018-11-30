@@ -211,7 +211,7 @@ def main():
         print("产生用水数据："+"python getdata.py mu 2018-3-28 08:01:01 [1,3,8,9,11,12,7,5,4,3,1] useWater1.csv")
         
 
-#主程序123
+#主程序123456789
 if __name__ == '__main__':
     main()
 
